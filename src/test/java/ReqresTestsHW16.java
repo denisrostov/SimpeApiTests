@@ -3,7 +3,7 @@ import static org.hamcrest.Matchers.*;
 import static io.restassured.RestAssured.given;
 import static io.restassured.http.ContentType.JSON;
 
-public class ReqresTestsHw16 {
+public class ReqresTestsHW16 {
     @Test
     void listOfUsers() {
         given()
